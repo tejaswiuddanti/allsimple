@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/novisync/Flutter/dio/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-hy/values-hy.xml",
+            "map": [
+                {
+                    "source": "/home/novisync/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/785ad01d7fc77b37a6b1f71513bb7654/res/values-hy/values-hy.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
